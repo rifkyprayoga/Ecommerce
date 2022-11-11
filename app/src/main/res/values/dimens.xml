@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvRightAddresMargin">115</dimen>
+    <dimen name="tvRigthShopping">115</dimen>
+    <dimen name="smallbuttonwidth">130dp</dimen>
+    <dimen name="smallbuttonheight">55dp</dimen>
+    <dimen name="buttonCorners">5</dimen>
+    <dimen name="tvRightAddresMarginRegister">100</dimen>
+</resources>

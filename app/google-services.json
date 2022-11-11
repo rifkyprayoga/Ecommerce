@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678324090954",
+    "project_id": "e-commerce-11ee0",
+    "storage_bucket": "e-commerce-11ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678324090954:android:d95fa25866e4cc04258eb3",
+        "android_client_info": {
+          "package_name": "com.udeanproj.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678324090954-pqtutkvumo57aq1tcjardfr4c9dq7600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqiUlUml3TOQDr2zA5b_9R3itThOV9p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678324090954-pqtutkvumo57aq1tcjardfr4c9dq7600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
